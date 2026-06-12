@@ -2,7 +2,7 @@ aiogram==3.17.0
 sqlalchemy[asyncio]==2.0.36
 alembic==1.13.3
 asyncpg==0.30.0
-pydantic==2.10.3
+pydantic==2.9.2
 pydantic-settings==2.6.1
 structlog==24.4.0
 httpx==0.28.1
